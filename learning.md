@@ -9,3 +9,13 @@
 ### Regression
 
 * https://machinelearningmastery.com/classification-versus-regression-in-machine-learning/
+
+
+### Vectors
+
+* https://machinelearningmastery.com/gentle-introduction-vectors-machine-learning/
+
+### Optimisation
+
+* https://machinelearningmastery.com/gradient-descent-for-machine-learning/
+
